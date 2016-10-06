@@ -52,7 +52,8 @@
         android:id="@+id/hulaVideoView"
         android:layout_weight="2"
         android:layout_marginTop="14dp"
-        android:layout_gravity="center_horizontal"/>
+        android:layout_gravity="center_horizontal"
+        />
 
     <Button
         android:id="@+id/hulaButton"
